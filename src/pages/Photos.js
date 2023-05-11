@@ -13,7 +13,6 @@ function Photos() {
     return (
         <main className="photos">
             {imageElements}
-            <h1>photos</h1>
         </main>
     )
 }
