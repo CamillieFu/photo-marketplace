@@ -1,6 +1,7 @@
 import React, {useContext} from "react"
 import {Link} from "react-router-dom"
 import {Context} from "../Context"
+import "../assets/header.css"
 
 function Header() {
     const {cartItems} = useContext(Context)
@@ -10,6 +11,7 @@ function Header() {
             <Link to="/"><h2>PhotoLand</h2></Link>
             <Link to="/cart">
                 <i className={`${cartClassName} ri-fw ri-2x`}></i>
+                <span className="cart-item-quantity">{cartItems.length}</span>
             </Link>
         </header>
     )
