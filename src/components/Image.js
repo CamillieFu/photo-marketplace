@@ -33,6 +33,7 @@ function Image({className, img}) {
             <img src={img.url} className="image-grid" alt="available print item"/>
             {heartIcon()}
             {cartIcon()}
+            {/* <span className="price">$5.99</span> */}
         </div>
     )
 }

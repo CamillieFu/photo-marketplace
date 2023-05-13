@@ -11,6 +11,7 @@ function ContextProvider({children}) {
         fetch(url)
             .then(res => res.json())
             .then(data => setAllPhotos(data))
+            setPrice()
     }, [])
 
     function toggleFavorite(id) {
@@ -22,6 +23,10 @@ function ContextProvider({children}) {
         })
 
         setAllPhotos(updatedArr)
+    }
+
+    function setPrice() {
+      console.log(allPhotos)
     }
 
     function addToCart(newItem) {
