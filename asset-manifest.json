@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photo-marketplace/static/css/main.7059ed42.css",
+    "main.js": "/photo-marketplace/static/js/main.ef30a549.js",
+    "static/js/787.c95840cd.chunk.js": "/photo-marketplace/static/js/787.c95840cd.chunk.js",
+    "index.html": "/photo-marketplace/index.html",
+    "main.7059ed42.css.map": "/photo-marketplace/static/css/main.7059ed42.css.map",
+    "main.ef30a549.js.map": "/photo-marketplace/static/js/main.ef30a549.js.map",
+    "787.c95840cd.chunk.js.map": "/photo-marketplace/static/js/787.c95840cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7059ed42.css",
+    "static/js/main.ef30a549.js"
+  ]
+}
