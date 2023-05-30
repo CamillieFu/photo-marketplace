@@ -1,71 +1,19 @@
-# Getting Started with Create React App
+# Photo marketplace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created as a mock photo marketplace webpage.
+The site hosts photos which can be favorited, added to a cart and "purchased"
+(There is no attached database so of course, users cannot sign in or save their preferences if the page is reloaded)
 
-## Available Scripts
+Design is minimal, black and white and focus on the product (images)
 
-In the project directory, you can run:
+## Homepage
 
-### `npm start`
+<img width="677" alt="Screen Shot 2023-05-30 at 15 40 57" src="https://github.com/CamillieFu/photo-marketplace/assets/86721807/884a0319-1a78-4502-8c16-afc1870bc30a">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Cart
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="678" alt="Screen Shot 2023-05-30 at 15 41 11" src="https://github.com/CamillieFu/photo-marketplace/assets/86721807/25058d2b-d66f-4b67-ada2-178a7a409fec">
 
-### `npm test`
+## Mobile
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# photo-marketplace
+<img width="362" alt="Screen Shot 2023-05-30 at 15 48 55" src="https://github.com/CamillieFu/photo-marketplace/assets/86721807/41dce2db-a8f0-4fdf-aed3-231726b1d167">
